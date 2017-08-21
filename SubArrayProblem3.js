@@ -1,7 +1,7 @@
 var inputArray1 = [-1, 10, -2, 34, -15, -20, 20, 78, 12];
 
 //all negative numbers
-var inputArray = [-10, -10, -2, -34, -15, -20, -20, -78, -1];
+var inputArray2 = [-10, -10, -2, -34, -15, -20, -20, -78, -1];
 // Init
 // To Do: how to represent the min INT
 var maxSumOfSubarray = -65535;
