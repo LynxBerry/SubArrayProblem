@@ -1,4 +1,4 @@
-var inputArray = [-1, 10, -2, 34, -15, -20, 20, 78, 12];
+var inputArray1 = [-1, 10, -2, 34, -15, -20, 20, 78, 12];
 
 //all negative numbers
 var inputArray = [-10, -10, -2, -34, -15, -20, -20, -78, -1];
